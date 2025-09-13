@@ -1,0 +1,1 @@
+This is an unofficial translation fot the Vic's Point Blank mod. Since it is handmade, it may contain incorrect translations and typos. Please report these to the [issue tracker](https://github.com/Mr-Richardson/Vic-s-Point-Blank-German/issues).
