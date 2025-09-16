@@ -1,3 +1,3 @@
-Unofficial German translation for Vic's Point Blank.
+Unofficial German translation for [Vic's Point Blank](https://modrinth.com/mod/vics-point-blank).
 This pack is handmade and may contain translation errors or typos.
 Please report any issues on the [GitHub issue tracker](https://github.com/Mr-Richardson/Vic-s-Point-Blank-German/issues).
